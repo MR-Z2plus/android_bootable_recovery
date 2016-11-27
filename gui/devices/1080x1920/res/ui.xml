@@ -244,7 +244,7 @@
 			<object type="text" color="%text_color%">
 				<font resource="font" />
 				<placement x="180" y="15" />
-				<text>Team Win Recovery Project  v%tw_version%</text>
+				<text>MultiROM recovery (TWRP based)  v%tw_version%</text>
 			</object>
 
 			<object type="text" color="%text_color%">
